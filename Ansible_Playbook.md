@@ -259,7 +259,6 @@ Now let's verify the changes by hitting the worker machines on port 80.
  ![image](https://github.com/sumitawate2312/DSA_Hacktoberfest2023/assets/148269404/1e979d17-0b27-40ec-a8eb-c59901e90a83)
 
 
-![image](https://github.com/sumitawate2312/DSA_Hacktoberfest2023/assets/148269404/7a1fe7b7-1693-4348-b37a-b222271660a1)
 
 The presented results affirm that our playbook has performed precisely as anticipated.
 
